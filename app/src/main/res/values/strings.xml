@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Digital Day</string>
+    <string name="sign_up">inscrever-se</string>
+    <string name="fullname">Nome Completo</string>
+    <string name="email">e-mail</string>
+    <string name="send">enviar</string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="sending">Enviando...</string>
+    <string name="err_msg_fullname">Informe seu nome completo</string>
+    <string name="err_msg_email">Informe um e-mail válido</string>
+    <string name="description">O Digital Day é um evento voltado à comunidade de desenvolvedores e especialistas do mundo digital que tem como propósito disseminar conhecimento e inovação em um dia de muita troca e aprendizado.</string>
+</resources>
